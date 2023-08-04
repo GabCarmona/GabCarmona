@@ -5,7 +5,7 @@
 
 - 💻 Data Intern and Python Developer.
 
-- 📊 Currently interested in learning about Data Science and Machine Learning. Visit my profile to know my projects.
+- 📊 Currently interested in learning about Data Engineering. Visit my profile to know my projects.
 
 - ⌨️ Enthusiast in technology.
 
