@@ -11,11 +11,11 @@
 
 - 🏠 Living in São Paulo, Brazil.
 
-- 🌱 I’m currently learning PySpark.
+- 🌱 I’m currently learning Airflow.
 - ✉️ How to reach me: carmonabiel@gmail.com
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/gabrielcarmona1/">
+<a href="https://www.linkedin.com/in/gabrielcarmonaa/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
 </a>
 
